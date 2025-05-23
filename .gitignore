@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment klasörleri
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE ve editör ayarları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ortam dosyaları
+.env
+
+# Log ve veri dosyaları
+*.log
+*.csv
+*.sqlite3
+*.db
+
+# Cache dosyaları
+.cache/
+*.egg-info/
+.eggs/
+*.bak
+
+# OS spesifik dosyalar
+.DS_Store
+Thumbs.db
+
+# Test çıktıları
+htmlcov/
+coverage.xml
+*.cover
+.pytest_cache/
+nosetests.xml
+
+# Sanal ortam klasörleri
+objectDetection/
+*.pyc
+__pycache__/
